@@ -1,0 +1,2 @@
+# karaoratorio
+Karaoke, for oratorios :)
